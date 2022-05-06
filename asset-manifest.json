@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lconnell1000/task-tracker-react-app/static/css/main.80942ded.css",
+    "main.js": "/lconnell1000/task-tracker-react-app/static/js/main.0856f347.js",
+    "static/js/787.1739b3d0.chunk.js": "/lconnell1000/task-tracker-react-app/static/js/787.1739b3d0.chunk.js",
+    "index.html": "/lconnell1000/task-tracker-react-app/index.html",
+    "main.80942ded.css.map": "/lconnell1000/task-tracker-react-app/static/css/main.80942ded.css.map",
+    "main.0856f347.js.map": "/lconnell1000/task-tracker-react-app/static/js/main.0856f347.js.map",
+    "787.1739b3d0.chunk.js.map": "/lconnell1000/task-tracker-react-app/static/js/787.1739b3d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80942ded.css",
+    "static/js/main.0856f347.js"
+  ]
+}
